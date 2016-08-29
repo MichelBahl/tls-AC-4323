@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		<View  layout="vertical">
+			<Label id="label" onClick="doClickWork">I am working</Label>
+			<Label id="label" onClick="doClickFail">I fail</Label>
+		</View>
+	</Window>
+</Alloy>
